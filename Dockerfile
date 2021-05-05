@@ -1,4 +1,4 @@
 FROM node:12-alpine
 
 # Install VueCli
-RUN npm install -g @vue/cli@4.5.11
+RUN npm install -g @vue/cli@4.5.12
